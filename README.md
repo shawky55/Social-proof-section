@@ -22,6 +22,6 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [ive Site URL](https://resonant-bombolone-c48492.netlify.app/)
+- Live Site URL: [ive Site URL](https://shawky55.github.io/Social-proof-section/)
 - Solution URL: [Solution URL](https://github.com/shawky55/Social-proof-section)
 
